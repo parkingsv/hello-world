@@ -1,0 +1,4 @@
+Fin=28G/500f	INPUT	NSF	16G SW	4G SW	PSF			INPUT	NSF	PSF		
+Vswing(mV)	332	281	197	132	124		Vswing(mV)	201	168	90.55		
+Vgain		0.846	0.701	0.670	0.939		Vgain		0.836	0.539		
+Vgain_db		-1.449	-3.085	-3.478	-0.543		Vgain_db		-1.558	-5.368		
